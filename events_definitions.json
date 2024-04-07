@@ -1,0 +1,234 @@
+{
+    "lieux": [
+        {
+            "nom": "Kriegerplatz",
+            "coords": [0.0, 1.0]
+        },
+        {
+            "nom": "Grand Park",
+            "coords": [10.0, 120.0]
+        },
+		{
+			"nom": "Jardins Royaux",
+			"coords": [0.0, 0.0]
+		},
+		{
+			"nom": "College Royal de Musique",
+			"coords": [0.0, 0.0]
+		},
+		{
+			"nom": "Bernabau Stadium",
+			"coords": [0.0, 0.0]
+		}
+    ],
+    "evenements":[
+        {
+            "jour": 1,
+            "debut": "11:00:00",
+            "fin": "13:00:00",
+            "nom": "Defis au Champion",
+            "description": "xxxx",
+            "lieu": "Kriegerplatz"
+        },
+        {
+            "jour": 1,
+            "debut": "12:00:00",
+            "fin": "23:00:00",
+            "nom": "Fete des Bieres",
+            "description": "xxxx",
+            "lieu": "Grand Park"
+        },
+        {
+            "jour": 1,
+            "debut": "14:00:00",
+            "fin": "16:00:00",
+            "nom": "Gymnastes Elfes",
+            "description": "xxxx",
+            "lieu": "Jardins Royaux"
+        },
+		{
+            "jour": 1,
+            "debut": "14:00:00",
+            "fin": "16:00:00",
+            "nom": "Tournoi de tir a l'arc",
+            "description": "xxxx",
+            "lieu": "Kriegerplatz"
+        },
+		{
+            "jour": 1,
+            "debut": "14:00:00",
+            "fin": "17:00:00",
+            "nom": "Declamations des Bardes et Poetes",
+            "description": "xxxx",
+            "lieu": "College Royal de Musique"
+        },
+		{
+            "jour": 1,
+            "debut": "16:00:00",
+            "fin": "17:00:00",
+            "nom": "Combats de Minotaures",
+            "description": "xxxx",
+            "lieu": "Bernabau Stadium"
+        },
+		{
+            "jour": 1,
+            "debut": "19:00:00",
+            "fin": "21:00:00",
+            "nom": "Theâtre: Songe d'une Vie d'epee",
+            "description": "xxxx",
+            "lieu": "Jardins Royaux"
+        },
+		{
+            "jour": 1,
+            "debut": "19:00:00",
+            "fin": "22:00:00",
+            "nom": "Recitals d'Opera",
+            "description": "xxxx",
+            "lieu": "College Royal de Musique"
+        },
+		{
+            "jour": 2,
+            "debut": "11:00:00",
+            "fin": "13:00:00",
+            "nom": "Defis au Champion",
+            "description": "xxxx",
+            "lieu": "Kriegerplatz"
+        },
+		{
+            "jour": 2,
+            "debut": "12:00:00",
+            "fin": "23:00:00",
+            "nom": "Fete des Bieres",
+            "description": "xxxx",
+            "lieu": "Grand Park"
+        },
+		{
+            "jour": 2,
+            "debut": "14:00:00",
+            "fin": "16:00:00",
+            "nom": "Gymnastes Elfes",
+            "description": "xxxx",
+            "lieu": "Jardins Royaux"
+        },
+		{
+            "jour": 2,
+            "debut": "14:00:00",
+            "fin": "16:00:00",
+            "nom": "Tournoi de tir a l'arc",
+            "description": "xxxx",
+            "lieu": "Kriegerplatz"
+        },
+		{
+            "jour": 2,
+            "debut": "16:00:00",
+            "fin": "17:00:00",
+            "nom": "Combats de Minotaures",
+            "description": "xxxx",
+            "lieu": "Bernabau Stadium"
+        },
+		{
+            "jour": 2,
+            "debut": "16:00:00",
+            "fin": "18:00:00",
+            "nom": "Declamations des Bardes et Poetes",
+            "description": "xxxx",
+            "lieu": "College Royal de Musique"
+        },
+		{
+            "jour": 2,
+            "debut": "19:00:00",
+            "fin": "22:00:00",
+            "nom": "Opera: Le Barbare de Seville",
+            "description": "xxxx",
+            "lieu": "College Royal de Musique"
+        },
+		{
+            "jour": 2,
+            "debut": "20:00:00",
+            "fin": "22:00:00",
+            "nom": "Menestrels Elfes",
+            "description": "xxxx",
+            "lieu": "Jardins Royaux"
+        },
+		{
+            "jour": 3,
+            "debut": "11:00:00",
+            "fin": "23:00:00",
+            "nom": "Defis au Champion",
+            "description": "xxxx",
+            "lieu": "Kriegerplatz"
+        },
+		{
+            "jour": 3,
+            "debut": "12:00:00",
+            "fin": "13:00:00",
+            "nom": "Cracheurs de feu",
+            "description": "xxxx",
+            "lieu": "Bernabau Stadium"
+        },
+		{
+            "jour": 3,
+            "debut": "12:00:00",
+            "fin": "23:00:00",
+            "nom": "Fete des Bieres",
+            "description": "xxxx",
+            "lieu": "Grand Park"
+        },
+		{
+            "jour": 3,
+            "debut": "14:00:00",
+            "fin": "16:00:00",
+            "nom": "Tournoi de tir a l'arc",
+            "description": "xxxx",
+            "lieu": "Kriegerplatz"
+        },
+		{
+            "jour": 3,
+            "debut": "14:00:00",
+            "fin": "20:00:00",
+            "nom": "Mimes, Theâtre, Reception de plein air",
+            "description": "xxxx",
+            "lieu": "Jardins Royaux"
+        },
+		{
+            "jour": 3,
+            "debut": "14:00:00",
+            "fin": "16:00:00",
+            "nom": "Chorale de la Vallee des Nains",
+            "description": "xxxx",
+            "lieu": "College Royal de Musique"
+        },
+		{
+            "jour": 3,
+            "debut": "16:00:00",
+            "fin": "17:00:00",
+            "nom": "Combats de Minotaures",
+            "description": "xxxx",
+            "lieu": "Bernabau Stadium"
+        },
+		{
+            "jour": 3,
+            "debut": "16:00:00",
+            "fin": "18:00:00",
+            "nom": "Declamations des Bardes et Poetes",
+            "description": "xxxx",
+            "lieu": "College Royal de Musique"
+        },
+		{
+            "jour": 3,
+            "debut": "17:00:00",
+            "fin": "19:00:00",
+            "nom": "Montreur d'elephant",
+            "description": "xxxx",
+            "lieu": "Kriegerplatz"
+        },
+		{
+            "jour": 3,
+            "debut": "19:00:00",
+            "fin": "22:00:00",
+            "nom": "Opera: Le Barbare de Seville",
+            "description": "xxxx",
+            "lieu": "College Royal de Musique"
+        }
+    ]
+}
