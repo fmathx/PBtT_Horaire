@@ -18,6 +18,10 @@ def _load_definitions(definitions_file: Path) -> Tuple[List[Lieu], List[Evenemen
     return lieux, events
 
 
+def handle_event_click(event_info):
+    st.write("Clicked on:", event_info)
+
+
 def _get_base_calendar_definition():
     calendar_options = {
         "editable": False,
@@ -36,6 +40,9 @@ def _get_base_calendar_definition():
         "slotMinTime": "10:00:00",
         "slotMaxTime": "23:00:00",
         "initialView": "resourceTimeGridDay",
+        "initialDate": "0001-01-01",
+        "contentHeight": "auto",
+        "selectMirror": True,
         "titleFormat": {
             "day": "numeric"
         }
@@ -86,11 +93,11 @@ def display_horaire():
     _, events = _load_definitions(definition_file)
 
     calendar_events, calendar_options, calendar_css = _compose_day_calendar(events)
-    calendar(
+    return calendar(
         events=calendar_events,
         options=calendar_options,
         custom_css=calendar_css,
-        callbacks=[]
+        callbacks=["eventClick"]
     )
 
-display_horaire()
+my_calendar = display_horaire()

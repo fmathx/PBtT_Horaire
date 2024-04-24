@@ -3,7 +3,7 @@ import streamlit as st
 
 def main():
     st.set_page_config(page_title="PBtT Horaire", layout="wide")
-
+    st.session_state.theme = "dark"
     st.subheader("App pour planifier jours pour PBtT")
     st.title("my title")
     st.write("App pour déterminer trajets quotidiens pour PBtT")
