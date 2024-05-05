@@ -32,15 +32,15 @@ def _get_base_calendar_definition():
             "center": "title",
             "right": "",
         },
-        "defaultDate": "0001-01-01",
+        "defaultDate": "0001-01-02",
         "validRange": {
             "start": "0001-01-01",
-            "end": "0001-01-06"
+            "end": "0001-01-08"
         },
         "slotMinTime": "10:00:00",
         "slotMaxTime": "23:00:00",
         "initialView": "resourceTimeGridDay",
-        "initialDate": "0001-01-01",
+        "initialDate": "0001-01-02",
         "contentHeight": "auto",
         "selectMirror": True,
         "titleFormat": {
