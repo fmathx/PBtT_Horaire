@@ -35,7 +35,7 @@ def _get_base_calendar_definition():
         "defaultDate": "0001-01-02",
         "validRange": {
             "start": "0001-01-01",
-            "end": "0001-01-08"
+            "end": "0001-01-10"
         },
         "slotMinTime": "10:00:00",
         "slotMaxTime": "23:00:00",
