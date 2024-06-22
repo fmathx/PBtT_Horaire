@@ -40,7 +40,7 @@ def _get_base_calendar_definition():
         "slotMinTime": "10:00:00",
         "slotMaxTime": "23:00:00",
         "initialView": "resourceTimeGridDay",
-        "initialDate": "0001-01-02",
+        "initialDate": "0001-01-03",
         "contentHeight": "auto",
         "selectMirror": True,
         "titleFormat": {
