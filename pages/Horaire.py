@@ -37,8 +37,8 @@ def _get_base_calendar_definition():
             "start": "0001-01-01",
             "end": "0001-01-10"
         },
-        "slotMinTime": "10:00:00",
-        "slotMaxTime": "02:00:00",
+        "slotMinTime": "00:00:00",
+        "slotMaxTime": "24:00:00",
         "initialView": "resourceTimeGridDay",
         "initialDate": "0001-01-03",
         "contentHeight": "auto",
