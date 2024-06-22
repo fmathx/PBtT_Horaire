@@ -503,8 +503,8 @@
             "lieu": "College Royal de Musique"
         },
         {
-            "jour": 9,
-            "debut": "00:00:00",
+            "jour": 8,
+            "debut": "24:00:00",
             "fin": "02:00:00",
             "nom": "Illuminations du Bassin Sombre (Grand Final)",
             "description": "xxxx",
